@@ -319,7 +319,7 @@ p{
 }
 
 #services .service-top{
-    width: 400px;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -833,6 +833,10 @@ p{
         margin: 1.5%;
     }
 
+    #services .service-top{
+        width: 500px;
+        margin: 0 auto;
+    }
 }
 
 /* Media Query for PC */

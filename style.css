@@ -49,15 +49,15 @@ p{
 }
 
 .section-title span{
-    color: crimson;
+    color: #28fffe;
 }
 
 .cta{
     display: inline-block;
     padding: 10px 30px;
-    color: crimson;
+    color: #28fffe;
     background: transparent;
-    border: 2px solid crimson;
+    border: 2px solid #28fffe;
     font-size: 2rem;
     text-transform: uppercase;
     letter-spacing: .1rem;
@@ -67,15 +67,15 @@ p{
 }
 
 .cta:hover{
-    color: white;
-    background-color: crimson;
+    color: #fbd271;;
+    background-color: #28fffe;
 }
 
 .brand{
     font-size: 3rem;
     text-transform: uppercase;
     
-    color: white;
+    color: #28fffe;
 }
 
 .brand h1 {
@@ -85,7 +85,7 @@ p{
 }
 
 .brand h1 span{
-    color: crimson;
+    color: #fbd271;
 }
 
 /* Header Section */
@@ -166,7 +166,7 @@ p{
 }
 
 #header .nav-list ul li:hover a{
-    color: crimson;
+    color: #fbd271;
 }
 
 #header .hamburger{
@@ -290,7 +290,7 @@ p{
     left: 0;
     height: 100%;
     width: 0;
-    background-color: crimson;
+    background-color: #fbd271;
     animation: text-reveal-box 1s ease;
     animation-delay: 1s;
 }
@@ -524,7 +524,7 @@ p{
     top: 19px;
     height: 98%;
     width: 98%;
-    border: 7px solid crimson;
+    border: 7px solid #28fffe;
     z-index: -1;
 }
 
@@ -664,7 +664,7 @@ p{
 
 @keyframes text-reveal-name{
     100%{
-        color: crimson;
+        color: #fbd271;
     }
 }
 /*x Keyframes x*/
@@ -739,7 +739,7 @@ p{
         top: 34px;
         height: 98%;
         width: 98%;
-        border: 10px solid crimson;
+        border: 10px solid #28fffe;
     }
 
     #about .col-right{
